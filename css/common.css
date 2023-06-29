@@ -658,11 +658,11 @@ body {
 .support-modal .support--info > ul .depth-02 {
   display: flex;
   flex-direction: column;
-  font-weight: normal;
 }
 .support-modal .support--info .depth-02 > a {
   color: var(--color-font-grey);
   padding: 12px 0;
+  font-weight: normal;
 }
 
 
@@ -713,9 +713,6 @@ body {
   .support-modal .support--info > ul .depth-01 > a {
     color: var(--color-font-black);
     padding: 0;
-  }
-  .support--info .depth-02 {
-
   }
   .support--info .depth-02 a {
     flex-basis: 33.333333333333336% !important;
